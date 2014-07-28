@@ -1,6 +1,6 @@
 //TODO: create an actual background image for the game.
-// Also, in line 40, that image might not upload...so pick your own image
-// for testing if nothing shows up on the browser
+// Also, in line 40, that image isnt included in the push...so use your own 
+// image for testing
 window.addEventListener("load", // listens for when the page has loaded
         function() {
             startWorking(); // starts the background implementation
